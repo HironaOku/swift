@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "StudentDetailViewController.viewDidLoad():StudentDetailViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MarkTableViewController.textFieldDidEndEditing(_:):MarkTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scoreField.tag">
+            </PersistentString>
+            <PersistentString
+               value = "self.maxValue ">
+            </PersistentString>
+            <PersistentString
+               value = "Int(score)">
+            </PersistentString>
+            <PersistentString
+               value = "maxValueField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in MarkTableViewController.viewDidLoad():MarkTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "week">
+            </PersistentString>
+            <PersistentString
+               value = "document.documentID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__pthread_kill:(null)">
+      </ContextState>
+      <ContextState
+         contextName = "MarkTableViewController.viewDidLoad():MarkTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "week">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StudentEditViewController.onSave(_:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "durationLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static AppDelegate.$main():AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MarkTableViewController.tableView(_:cellForRowAt:):MarkTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "students[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "scoreField.tag">
+            </PersistentString>
+            <PersistentString
+               value = "student.grade[weekDocument]">
+            </PersistentString>
+            <PersistentString
+               value = "existingMark">
+            </PersistentString>
+            <PersistentString
+               value = "mark">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MarkTableViewController.pickerView(_:didSelectRow:inComponent:):MarkTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weeks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StudentDetailViewController.unwindToStudentDetailWithSaved(sender:):StudentDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "displayStudent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,25 @@
+//
+//  MovieUITableViewCell.swift
+//  
+//
+//  Created by Hirona Oku on 2021/04/27.
+//
+
+import UIKit
+
+class StudentUITableViewCell: UITableViewCell {
+
+    @IBOutlet var subTitleLabel: UILabel!
+    @IBOutlet var titleLabel: UILabel!
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        // Initialization code
+    }
+
+    override func setSelected(_ selected: Bool, animated: Bool) {
+        super.setSelected(selected, animated: animated)
+
+        // Configure the view for the selected state
+    }
+
+}
